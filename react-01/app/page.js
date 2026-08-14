@@ -19,9 +19,9 @@ export default function Home() {
             <code className={styles.code}>page.js</code> file.
           </h1>
           <p>
-            Te amo ninha dona do meu corçao{" "}
+            Looking for a starting point or more instructions? Head over to{" "}
             <a
-              href="https://v0.app/tamilesandrade22-2688/chat/eu-te-amo-display-VbkBbtSSv2m"
+              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               target="_blank"
               rel="noopener noreferrer"
             >
